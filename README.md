@@ -7,3 +7,6 @@
 - 流程控制
 - 函数与错误处理
 - 结构体、方法、接口
+- 并发编程
+    - sync 类似Java中的CountDownLatch
+    - channel 类似于Java中的BlockQueue
